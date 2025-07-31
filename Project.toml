@@ -1,12 +1,12 @@
 name = "PyPinYin"
 uuid = "8c847028-23a0-4102-8c1d-e908a7170008"
 authors = ["Sole <sonosole@163.com>"]
-version = "0.1.0"
+version = "0.1.1"
 license = "MIT"
 
 [deps]
 PyCall = "438e738f-606a-5dbb-bf0a-cddfbfd45ab0"
 
 [compat]
-julia  = "1.0 - 1.6"
-PyCall = "1.92"
+julia  = "1"
+PyCall = "1"
